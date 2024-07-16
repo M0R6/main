@@ -1,0 +1,8 @@
+[16-May-2024 16:21:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'mrgnmyi1_morgan'@'localhost' to database 'morgan' in /home/mrgnmyi1/public_html/projects/porto/koneksi.php on line 2
+[16-May-2024 16:21:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/mrgnmyi1/public_html/projects/porto/question.php on line 9
+[18-May-2024 06:17:29 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'mrgnmyi1_morgan'@'localhost' to database 'morgan' in /home/mrgnmyi1/public_html/projects/porto/koneksi.php on line 2
+[18-May-2024 06:17:29 UTC] PHP Notice:  Undefined index: name in /home/mrgnmyi1/public_html/projects/porto/question.php on line 4
+[18-May-2024 06:17:29 UTC] PHP Notice:  Undefined index: email in /home/mrgnmyi1/public_html/projects/porto/question.php on line 5
+[18-May-2024 06:17:29 UTC] PHP Notice:  Undefined index: phone in /home/mrgnmyi1/public_html/projects/porto/question.php on line 6
+[18-May-2024 06:17:29 UTC] PHP Notice:  Undefined index: msg in /home/mrgnmyi1/public_html/projects/porto/question.php on line 7
+[18-May-2024 06:17:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/mrgnmyi1/public_html/projects/porto/question.php on line 9
